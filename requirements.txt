@@ -1,0 +1,6 @@
+opencv-python
+numpy
+time
+autopy
+mediapipe==0.9
+cv2
