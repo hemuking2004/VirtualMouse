@@ -13,7 +13,7 @@ This project implements a virtual mouse using hand gestures and webcam input. By
 ## Installation
 
 ### Requirements
-- **Python 3.x**
+- **Python 3.8.7
 - The following Python libraries are required:
   ```bash
   pip install opencv-python mediapipe autopy numpy
