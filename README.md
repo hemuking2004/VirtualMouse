@@ -21,7 +21,7 @@ This project implements a virtual mouse using hand gestures and webcam input. By
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/VirtualMouseHandTracking.git
+git clone https://github.com/yourusername/VirtualMouse.git
 cd VirtualMouseHandTracking
 ```
 
